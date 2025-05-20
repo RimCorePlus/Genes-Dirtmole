@@ -1,19 +1,15 @@
 ﻿<ModMetaData>
 	<packageId>coreplus.genes.dirtmole</packageId>
-	<name>[CorePlus] Genes - Dirtmole</name>
+	<name>[RCP] Genes - Dirtmole</name>
 	<author>boomer</author>
 	<supportedVersions>
 		<li>1.5</li>
 	</supportedVersions>
+	<url>https://github.com/RimCorePlus/Genes-Dirtmole</url>
 	<modDependencies>
 		<li>
 			<packageId>Ludeon.RimWorld.Biotech</packageId>
 			<displayName>Biotech</displayName>
-		</li>
-		<li>
-			<packageId>coreplus.genes</packageId>
-			<displayName>[CorePlus] Genes</displayName>
-			<downloadUrl>https://github.com/RimCorePlus/Genes-Genes</downloadUrl>
 		</li>
 	</modDependencies>
 	<loadAfter>

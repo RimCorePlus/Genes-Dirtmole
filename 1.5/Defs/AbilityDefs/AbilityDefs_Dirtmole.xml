@@ -1,6 +1,6 @@
 <Defs>
-    <AbilityDef ParentName="CorePlus_SkillFocusAbility">
-        <defName>CorePlus_MiningFocus</defName>
+    <AbilityDef ParentName="RCP_SkillFocusAbility">
+        <defName>RCP_MiningFocus</defName>
         <label>mining focus</label>
         <description>The caster shuts out all distractions to focus on mining.</description>
         <iconPath>UI/Icons/Genes/Skills/Mining/PassionAdd</iconPath>
@@ -8,7 +8,7 @@
         <comps>
             <li Class="CompProperties_AbilityGiveHediff">
                 <compClass>CompAbilityEffect_GiveHediff</compClass>
-                <hediffDef>CorePlus_MiningFocus</hediffDef>
+                <hediffDef>RCP_MiningFocus</hediffDef>
                 <onlyApplyToSelf>true</onlyApplyToSelf>
                 <onlyBrain>true</onlyBrain>
                 <replaceExisting>true</replaceExisting>

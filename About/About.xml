@@ -1,5 +1,5 @@
 ﻿<ModMetaData>
-	<packageId>coreplus.genes.dirtmole</packageId>
+	<packageId>RCP.Genes.Dirtmole</packageId>
 	<name>[RCP] Genes - Dirtmole</name>
 	<author>boomer</author>
 	<supportedVersions>
@@ -13,6 +13,6 @@
 		</li>
 	</modDependencies>
 	<loadAfter>
-		<li>coreplus.genes</li>
+		<li>RCP.Genes</li>
 	</loadAfter>
 </ModMetaData>

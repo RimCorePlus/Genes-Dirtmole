@@ -3,6 +3,6 @@
         <li>/</li>
         <li>1.5</li>
         <li>Common</li>
-        <li IfModNotActive="coreplus.genes">Mods/RCP Genes/NotActive/1.5</li>
+        <li IfModNotActive="RCP.Genes">Mods/RCP Genes/NotActive/1.5</li>
     </v1.5>
 </loadFolders>

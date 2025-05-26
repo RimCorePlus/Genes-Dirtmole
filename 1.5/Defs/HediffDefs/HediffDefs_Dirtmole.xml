@@ -1,6 +1,6 @@
 <Defs>
-    <HediffDef ParentName="CorePlus_SkillFocusHediff">
-        <defName>CorePlus_MiningFocus</defName>
+    <HediffDef ParentName="RCP_SkillFocusHediff">
+        <defName>RCP_MiningFocus</defName>
         <label>mining focus</label>
         <description>Focused on the job.</description>
         <aptitudes>

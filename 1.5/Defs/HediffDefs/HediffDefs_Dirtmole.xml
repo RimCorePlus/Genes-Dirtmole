@@ -4,7 +4,7 @@
         <label>mining focus</label>
         <description>Focused on the job.</description>
         <aptitudes>
-            <Mining>5</Mining>
+            <Mining>4</Mining>
         </aptitudes>
         <stages>
             <li>
